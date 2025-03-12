@@ -31,8 +31,3 @@ python3 main.py
 ![alt text](./assets/midphase.png?raw=true)
 
 ![alt text](./assets/kill.png?raw=true)
-
-## Contributors
-
-- [Mansi Agrawal (@mansiag)](https://github.com/mansiag)
-- [Shivam Gupta (@shivg7706)](https://github.com/shivg7706)
